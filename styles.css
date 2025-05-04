@@ -1,0 +1,13 @@
+.text {
+    font-size: 50px;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    color: #fff;
+}
+.ok {
+    font-size: 25px;
+}
+.sigma {
+    font-size: 30px;
+    text-decoration: none;
+    color: red;
+}
